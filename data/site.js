@@ -1,8 +1,8 @@
 // Semua teks, link, dan gambar diedit dari file ini.
 export const site = {
   name: "Faridz Ma'ruf",
-  email: "faridz@example.com",
-  phone: "+62 812-0000-0000",
+  email: "faridz@gmail.com",
+  phone: "+62 8821-2303-630",
   location: "Indonesia",
   cv: "/cv.pdf", // taruh file CV kamu di public/cv.pdf
   photo: "/images/profile.svg", // ganti dengan foto kamu, mis. /images/foto.jpg
@@ -47,7 +47,9 @@ export const site = {
 
   socials: [
     { label: "GitHub", icon: "Github", href: "https://github.com/" },
-    { label: "Instagram", icon: "Instagram", href: "https://instagram.com/" },
+    { label: "Instagram", icon: "Instagram", href: "https://www.instagram.com/faridz__store" },
     { label: "LinkedIn", icon: "Linkedin", href: "https://linkedin.com/" },
+    { label: "Tiktok", icon "Tiktok",
+href: "https://tiktok.com/faridz_store"
   ],
 };
